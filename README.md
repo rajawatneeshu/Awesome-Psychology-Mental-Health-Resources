@@ -22,7 +22,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ)
 - [Unplug: A simple guide to meditation for busy skeptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ)
 
-## 🎥 Best YouTube Channels
+## 🎥 YouTube Channels
 - [Psychology In Seattle](https://www.youtube.com/user/PsychologyInSeattle)
 - [Therapy in a Nutshell](https://www.youtube.com/c/TherapyinaNutshell)
 - [SciShow Psych](https://www.youtube.com/c/scishowpsych)
@@ -51,10 +51,11 @@ A curated list of the best resources in psychology and mental health, covering b
 - [International Society for Traumatic Stress Studies](https://istss.org/)
 - [Mad in America](https://www.madinamerica.com/)
 - [Open Excellence](https://openexcellence.org/)
-- [PsychRights](https://psychrights.org/)\
+- [PsychRights](https://psychrights.org/)
 - [SAFE 4 Recovery](https://www.survivorsandfamiliesempowered.org/)
 - [Warfighter Advance](https://www.warfighteradvance.org/)
-- 
+- [MedShadow Foundation](https://medshadow.org/)
+
 ## 📱 Apps for Mental Health
 - [Headspace](https://www.headspace.com/) – Meditation & mindfulness
 - [Calm](https://www.calm.com/) – Sleep & relaxation
@@ -63,6 +64,14 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Happify](https://www.happify.com/) – Mental well-being activities
 - [Daylio](https://daylio.net/) – Mood tracking
 - [MindDoc](https://minddoc.com/)- Depression screening
+- [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD through short games.
+- [meQuilibrium](https://mequilibrium.com) - Improve behavioral psychology to build resilience and agility.
+- [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
+- [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
+- [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
+- `Self Hosted` [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
+- `Self Hosted` [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
+
 
 ## 🌐 Websites & Platforms
 - [Psychology Today](https://www.psychologytoday.com/)
@@ -72,12 +81,21 @@ A curated list of the best resources in psychology and mental health, covering b
 - [PsyWellPath](https://psywellpath.com/)
 - [Positive Psychology](https://positivepsychology.com/)
 - [Greater Good Magazine](https://greatergood.berkeley.edu/)
+- [OpenMinds Quarterly](https://www.openmindsquarterly.com/)
+- [kuakua.app](https://kuakua.app/)
 - [Positive Psychology](https://positivepsychology.com/)
 - [Grief Beyond Belief](http://griefbeyondbelief.org)
+- [if-me.org](https://www.if-me.org/)
 - [Seize the Awkward](https://seizetheawkward.org/)
 - [Students Against Depression](https://studentsagainstdepression.org/)
 - [The Mighty](https://themighty.com)
-
+- [Vrendle](https://vrendle.com)
+- [mentalhealth.day](https://mentalhealth.day)
+  
+## Lists
+- [Awesome-Autism Resource List](https://github.com/aspergirl-git/awesome-autism) -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger's Syndrome.
+- [Selfcare.tech](http://selfcare.tech/) - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.
+  
 ## 🎙️ Podcasts
 - [The Happiness Lab – Dr. Laurie Santos](https://www.happinesslab.fm/)
 - [The Mental Illness Happy Hour – Paul Gilmartin](https://mentalpod.com/)

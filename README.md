@@ -5,30 +5,28 @@ A curated list of the best resources in psychology and mental health, covering b
 ---
 
 ## 📚 Best Books
-- [The Man Who Mistook His Wife for a Hat – Oliver Sacks](https://www.goodreads.com/book/show/63692.The_Man_Who_Mistook_His_Wife_for_a_Hat)
+- [The Man Who Mistook His Wife for a Hat – Oliver Sacks](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)
 - [Thinking, Fast and Slow – Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [The Body Keeps the Score – Bessel van der Kolk](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score)
 - [Lost Connections – Johann Hari](https://www.goodreads.com/book/show/34921573-lost-connections)
 - [The Psychology of Money – Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 - [Flow: The Psychology of Optimal Experience – Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
-- [Stumbling on Happiness – Daniel Gilbert](https://www.goodreads.com/book/show/30305.Stumbling_on_Happiness)
+- [Stumbling on Happiness – Daniel Gilbert](https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness)
 - [Grit: The Power of Passion and Perseverance – Angela Duckworth](https://www.goodreads.com/book/show/27213329-grit)
-- [The Lucifer Effect: Understanding How Good People Turn Evil – Philip Zimbardo](https://www.goodreads.com/book/show/18795.The_Lucifer_Effect)
+- [The Lucifer Effect: Understanding How Good People Turn Evil – Philip Zimbardo](https://www.goodreads.com/book/show/359194.The_Lucifer_Effect)
 
 ## 🎥 Best YouTube Channels
 - [Psychology In Seattle](https://www.youtube.com/user/PsychologyInSeattle)
 - [Therapy in a Nutshell](https://www.youtube.com/c/TherapyinaNutshell)
 - [SciShow Psych](https://www.youtube.com/c/scishowpsych)
-- [Dr. Todd Grande](https://www.youtube.com/c/DrToddGrande)
-- [CrashCourse Psychology](https://www.youtube.com/c/crashcourse)
-- [The School of Life](https://www.youtube.com/c/schooloflifechannel)
-- [Mel Robbins](https://www.youtube.com/c/MelRobbins)
+- [Dr. Todd Grande](https://www.youtube.com/c/ToddGrande)
+- [The School of Life](https://www.youtube.com/schooloflifechannel)
 
 ## 📄 Whitepapers & Research Papers
 - [APA PsycNet](https://psycnet.apa.org/)
 - [PubMed Psychology Collection](https://pubmed.ncbi.nlm.nih.gov/)
 - [Google Scholar](https://scholar.google.com/)
-- [ResearchGate Psychology](https://www.researchgate.net/directory/publications/Psychology)
+- [ResearchGate Psychology](https://www.researchgate.net/search/publication?q=psychology)
 - [PLOS ONE - Psychology Research](https://journals.plos.org/plosone/browse/psychology)
 - [PsyArXiv](https://psyarxiv.com/)
 
@@ -46,7 +44,6 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Calm](https://www.calm.com/) – Sleep & relaxation
 - [BetterHelp](https://www.betterhelp.com/) – Online therapy
 - [Woebot](https://woebothealth.com/) – AI-based CBT support
-- [Sanvello](https://www.sanvello.com/) – Stress & anxiety relief
 - [Happify](https://www.happify.com/) – Mental well-being activities
 - [Daylio](https://daylio.net/) – Mood tracking
 
@@ -54,7 +51,8 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Psychology Today](https://www.psychologytoday.com/)
 - [Verywell Mind](https://www.verywellmind.com/)
 - [PsychCentral](https://psychcentral.com/)
-- [MindTools](https://www.mindtools.com/pages/article/newCDV_76.htm)
+- [MindTools](https://www.mindtools.com/)
+- [PsyWellPath](https://psywellpath.com/)
 - [Positive Psychology](https://positivepsychology.com/)
 - [Greater Good Magazine](https://greatergood.berkeley.edu/)
 

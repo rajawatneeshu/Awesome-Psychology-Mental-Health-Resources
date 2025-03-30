@@ -1,4 +1,4 @@
-# 📘 Awesome Psychology & Mental Health Resources  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Awesome Psychology & Mental Health Resources  
 
 A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.
 

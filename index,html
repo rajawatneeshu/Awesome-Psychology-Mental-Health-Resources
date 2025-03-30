@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychology & Mental Health Resources</title>
+</head>
+<body>
+    <h1>📚 Psychology & Mental Health Resources</h1>
+    <p>A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.</p>
+    <hr>
+
+    <h2>📚 Best Books</h2>
+    <ul>
+        <li><a href="https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales">The Man Who Mistook His Wife for a Hat – Oliver Sacks</a></li>
+        <li><a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow – Daniel Kahneman</a></li>
+        <li><a href="https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score">The Body Keeps the Score – Bessel van der Kolk</a></li>
+        <li><a href="https://www.goodreads.com/book/show/34921573-lost-connections">Lost Connections – Johann Hari</a></li>
+        <li><a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money">The Psychology of Money – Morgan Housel</a></li>
+        <li><a href="https://www.goodreads.com/book/show/66354.Flow">Flow: The Psychology of Optimal Experience – Mihaly Csikszentmihalyi</a></li>
+        <li><a href="https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness">Stumbling on Happiness – Daniel Gilbert</a></li>
+        <li><a href="https://www.goodreads.com/book/show/27213329-grit">Grit: The Power of Passion and Perseverance – Angela Duckworth</a></li>
+        <li><a href="https://www.goodreads.com/book/show/359194.The_Lucifer_Effect">The Lucifer Effect: Understanding How Good People Turn Evil – Philip Zimbardo</a></li>
+    </ul>
+
+    <h2>🎥 Best YouTube Channels</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/user/PsychologyInSeattle">Psychology In Seattle</a></li>
+        <li><a href="https://www.youtube.com/c/TherapyinaNutshell">Therapy in a Nutshell</a></li>
+        <li><a href="https://www.youtube.com/c/scishowpsych">SciShow Psych</a></li>
+        <li><a href="https://www.youtube.com/c/ToddGrande">Dr. Todd Grande</a></li>
+        <li><a href="https://www.youtube.com/schooloflifechannel">The School of Life</a></li>
+    </ul>
+
+    <h2>📄 Whitepapers & Research Papers</h2>
+    <ul>
+        <li><a href="https://psycnet.apa.org/">APA PsycNet</a></li>
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed Psychology Collection</a></li>
+        <li><a href="https://scholar.google.com/">Google Scholar</a></li>
+        <li><a href="https://www.researchgate.net/search/publication?q=psychology">ResearchGate Psychology</a></li>
+        <li><a href="https://journals.plos.org/plosone/browse/psychology">PLOS ONE - Psychology Research</a></li>
+        <li><a href="https://psyarxiv.com/">PsyArXiv</a></li>
+    </ul>
+    
+    <h2>💪 Contribute</h2>
+    <p>If you have any recommendations, feel free to submit a pull request!</p>
+    
+    <h2>📝 License</h2>
+    <p>MIT License. Feel free to share and contribute!</p>
+</body>
+</html>

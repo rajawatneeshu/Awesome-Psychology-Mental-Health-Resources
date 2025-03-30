@@ -4,48 +4,160 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Psychology & Mental Health Resources</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
 </head>
 <body>
-    <h1>📚 Psychology & Mental Health Resources</h1>
-    <p>A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.</p>
-    <hr>
-
-    <h2>📚 Best Books</h2>
-    <ul>
-        <li><a href="https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales">The Man Who Mistook His Wife for a Hat – Oliver Sacks</a></li>
-        <li><a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow – Daniel Kahneman</a></li>
-        <li><a href="https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score">The Body Keeps the Score – Bessel van der Kolk</a></li>
-        <li><a href="https://www.goodreads.com/book/show/34921573-lost-connections">Lost Connections – Johann Hari</a></li>
-        <li><a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money">The Psychology of Money – Morgan Housel</a></li>
-        <li><a href="https://www.goodreads.com/book/show/66354.Flow">Flow: The Psychology of Optimal Experience – Mihaly Csikszentmihalyi</a></li>
-        <li><a href="https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness">Stumbling on Happiness – Daniel Gilbert</a></li>
-        <li><a href="https://www.goodreads.com/book/show/27213329-grit">Grit: The Power of Passion and Perseverance – Angela Duckworth</a></li>
-        <li><a href="https://www.goodreads.com/book/show/359194.The_Lucifer_Effect">The Lucifer Effect: Understanding How Good People Turn Evil – Philip Zimbardo</a></li>
-    </ul>
-
-    <h2>🎥 Best YouTube Channels</h2>
-    <ul>
-        <li><a href="https://www.youtube.com/user/PsychologyInSeattle">Psychology In Seattle</a></li>
-        <li><a href="https://www.youtube.com/c/TherapyinaNutshell">Therapy in a Nutshell</a></li>
-        <li><a href="https://www.youtube.com/c/scishowpsych">SciShow Psych</a></li>
-        <li><a href="https://www.youtube.com/c/ToddGrande">Dr. Todd Grande</a></li>
-        <li><a href="https://www.youtube.com/schooloflifechannel">The School of Life</a></li>
-    </ul>
-
-    <h2>📄 Whitepapers & Research Papers</h2>
-    <ul>
-        <li><a href="https://psycnet.apa.org/">APA PsycNet</a></li>
-        <li><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed Psychology Collection</a></li>
-        <li><a href="https://scholar.google.com/">Google Scholar</a></li>
-        <li><a href="https://www.researchgate.net/search/publication?q=psychology">ResearchGate Psychology</a></li>
-        <li><a href="https://journals.plos.org/plosone/browse/psychology">PLOS ONE - Psychology Research</a></li>
-        <li><a href="https://psyarxiv.com/">PsyArXiv</a></li>
-    </ul>
-    
-    <h2>💪 Contribute</h2>
-    <p>If you have any recommendations, feel free to submit a pull request!</p>
-    
-    <h2>📝 License</h2>
-    <p>MIT License. Feel free to share and contribute!</p>
+    <div class="container">
+   <h1 id="-awesome-https-awesome-re-badge-svg-https-awesome-re-awesome-psychology-mental-health-resources"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> Awesome Psychology &amp; Mental Health Resources</h1>
+<p>A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.</p>
+<hr>
+<h2 id="-best-books">📚 Best Books</h2>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales">The Man Who Mistook His Wife for a Hat – Oliver Sacks</a></li>
+<li><a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow – Daniel Kahneman</a></li>
+<li><a href="https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score">The Body Keeps the Score – Bessel van der Kolk</a></li>
+<li><a href="https://www.goodreads.com/book/show/34921573-lost-connections">Lost Connections – Johann Hari</a></li>
+<li><a href="https://www.goodreads.com/book/show/41881472-the-psychology-of-money">The Psychology of Money – Morgan Housel</a></li>
+<li><a href="https://www.goodreads.com/book/show/66354.Flow">Flow: The Psychology of Optimal Experience – Mihaly Csikszentmihalyi</a></li>
+<li><a href="https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness">Stumbling on Happiness – Daniel Gilbert</a></li>
+<li><a href="https://www.goodreads.com/book/show/27213329-grit">Grit: The Power of Passion and Perseverance – Angela Duckworth</a></li>
+<li><a href="https://www.goodreads.com/book/show/359194.The_Lucifer_Effect">The Lucifer Effect: Understanding How Good People Turn Evil – Philip Zimbardo</a></li>
+<li><a href="https://books.google.com/books?id=v4WcDAEACAAJ">Dancing in the Rain</a></li>
+<li><a href="https://www.google.com/books/edition/Stay/7QCPAQAAQBAJ">Stay</a></li>
+<li><a href="https://books.google.nl/books?id=PDAEzLL9mscC">Self-Compassion: The Proven Power of Being Kind to Yourself</a></li>
+<li><a href="https://books.google.com/books?id=f888DgAAQBAJ">The Craving Mind</a></li>
+<li><a href="https://books.google.com/books/?id=bAQ0DgAAQBAJ">The Mystery of Sleep</a></li>
+<li><a href="https://books.google.com/books?id=99OcDQAAQBAJ">Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion</a></li>
+<li><a href="https://books.google.com/books?id=O1AODQAAQBAJ">Unplug: A simple guide to meditation for busy skeptics and modern soul seekers</a></li>
+</ul>
+<h2 id="-best-youtube-channels">🎥 Best YouTube Channels</h2>
+<ul>
+<li><a href="https://www.youtube.com/user/PsychologyInSeattle">Psychology In Seattle</a></li>
+<li><a href="https://www.youtube.com/c/TherapyinaNutshell">Therapy in a Nutshell</a></li>
+<li><a href="https://www.youtube.com/c/scishowpsych">SciShow Psych</a></li>
+<li><a href="https://www.youtube.com/c/ToddGrande">Dr. Todd Grande</a></li>
+<li><a href="https://www.youtube.com/schooloflifechannel">The School of Life</a></li>
+<li><a href="https://www.youtube.com/c/howtoadhd">How to ADHD</a></li>
+</ul>
+<h2 id="-whitepapers-research-papers">📄 Whitepapers &amp; Research Papers</h2>
+<ul>
+<li><a href="https://psycnet.apa.org/">APA PsycNet</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed Psychology Collection</a></li>
+<li><a href="https://scholar.google.com/">Google Scholar</a></li>
+<li><a href="https://www.researchgate.net/search/publication?q=psychology">ResearchGate Psychology</a></li>
+<li><a href="https://journals.plos.org/plosone/browse/psychology">PLOS ONE - Psychology Research</a></li>
+<li><a href="https://psyarxiv.com/">PsyArXiv</a></li>
+<li><a href="https://www.library.illinois.edu/sshel/psychology/psycgui/">SSHEL Psychology Resources Guide (University of Illinois)</a></li>
+</ul>
+<h2 id="-non-profit-organizations">🏛️ Non-Profit Organizations</h2>
+<ul>
+<li><a href="https://www.mhanational.org/">Mental Health America (MHA)</a></li>
+<li><a href="https://www.nami.org/">National Alliance on Mental Illness (NAMI)</a></li>
+<li><a href="https://wfmh.global/">World Federation for Mental Health</a></li>
+<li><a href="https://www.mind.org.uk/">Mind (UK)</a></li>
+<li><a href="https://www.thetrevorproject.org/">The Trevor Project</a></li>
+<li><a href="https://findtreatment.gov">SAMHSA (Substance Abuse and Mental Health Services Administration)</a></li>
+<li><a href="https://www.who.int/health-topics/mental-health">WHO - Mental Health</a></li>
+<li><a href="https://www.nctsn.org/">National Child Traumatic Stress Network (NCTSN)</a></li>
+<li><a href="https://istss.org/">International Society for Traumatic Stress Studies</a></li>
+<li><a href="https://www.madinamerica.com/">Mad in America</a></li>
+<li><a href="https://openexcellence.org/">Open Excellence</a></li>
+<li><a href="https://psychrights.org/">PsychRights</a>\</li>
+<li><a href="https://www.survivorsandfamiliesempowered.org/">SAFE 4 Recovery</a></li>
+<li><a href="https://www.warfighteradvance.org/">Warfighter Advance</a></li>
+<li><h2 id="-apps-for-mental-health">📱 Apps for Mental Health</h2>
+</li>
+<li><a href="https://www.headspace.com/">Headspace</a> – Meditation &amp; mindfulness</li>
+<li><a href="https://www.calm.com/">Calm</a> – Sleep &amp; relaxation</li>
+<li><a href="https://www.betterhelp.com/">BetterHelp</a> – Online therapy</li>
+<li><a href="https://woebothealth.com/">Woebot</a> – AI-based CBT support</li>
+<li><a href="https://www.happify.com/">Happify</a> – Mental well-being activities</li>
+<li><a href="https://daylio.net/">Daylio</a> – Mood tracking</li>
+<li><a href="https://minddoc.com/">MindDoc</a>- Depression screening</li>
+</ul>
+<h2 id="-websites-platforms">🌐 Websites &amp; Platforms</h2>
+<ul>
+<li><a href="https://www.psychologytoday.com/">Psychology Today</a></li>
+<li><a href="https://www.verywellmind.com/">Verywell Mind</a></li>
+<li><a href="https://psychcentral.com/">PsychCentral</a></li>
+<li><a href="https://www.mindtools.com/">MindTools</a></li>
+<li><a href="https://psywellpath.com/">PsyWellPath</a></li>
+<li><a href="https://positivepsychology.com/">Positive Psychology</a></li>
+<li><a href="https://greatergood.berkeley.edu/">Greater Good Magazine</a></li>
+<li><a href="https://positivepsychology.com/">Positive Psychology</a></li>
+<li><a href="http://griefbeyondbelief.org">Grief Beyond Belief</a></li>
+<li><a href="https://seizetheawkward.org/">Seize the Awkward</a></li>
+<li><a href="https://studentsagainstdepression.org/">Students Against Depression</a></li>
+<li><a href="https://themighty.com">The Mighty</a></li>
+</ul>
+<h2 id="-podcasts">🎙️ Podcasts</h2>
+<ul>
+<li><a href="https://www.happinesslab.fm/">The Happiness Lab – Dr. Laurie Santos</a></li>
+<li><a href="https://mentalpod.com/">The Mental Illness Happy Hour – Paul Gilmartin</a></li>
+<li><a href="http://shrinkrapradio.com/">Shrink Rap Radio – Dr. David Van Nuys</a></li>
+<li><a href="https://www.apa.org/news/podcasts/speaking-of-psychology">Speaking of Psychology – American Psychological Association</a></li>
+<li><a href="https://scottbarrykaufman.com/podcast/">The Psychology Podcast – Dr. Scott Barry Kaufman</a></li>
+</ul>
+<h2 id="-online-courses-learning-platforms">🏫 Online Courses &amp; Learning Platforms</h2>
+<ul>
+<li><a href="https://www.coursera.org/browse/health/psychology">Coursera - Psychology Courses</a></li>
+<li><a href="https://www.edx.org/learn/mental-health">edX - Mental Health Courses</a></li>
+<li><a href="https://www.udemy.com/courses/search/?q=psychology">Udemy - Psychology Courses</a></li>
+<li><a href="https://www.futurelearn.com/subjects/psychology-and-mental-health-courses">FutureLearn - Mental Health &amp; Psychology Courses</a></li>
+<li><a href="https://ocw.mit.edu/courses/brain-and-cognitive-sciences/">MIT OpenCourseWare - Psychology</a></li>
+</ul>
+<h2 id="-forums-communities">🧠 Forums &amp; Communities</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/psychology/">Reddit - r/Psychology</a></li>
+<li><a href="https://www.reddit.com/r/mentalhealth/">Reddit - r/MentalHealth</a></li>
+<li><a href="https://www.psychforums.com/">PsychForums</a></li>
+<li><a href="https://www.7cups.com/">7 Cups</a> – Emotional support chat</li>
+<li><a href="https://www.quora.com/topic/Psychology">Quora - Psychology Topics</a></li>
+</ul>
+<h2 id="-mental-health-advocacy-support-groups">🎭 Mental Health Advocacy &amp; Support Groups</h2>
+<ul>
+<li><a href="https://www.activeminds.org/">Active Minds</a></li>
+<li><a href="https://twloha.com/">To Write Love on Her Arms</a></li>
+<li><a href="https://adaa.org/">Anxiety and Depression Association of America (ADAA)</a></li>
+<li><a href="https://www.nationaleatingdisorders.org/">National Eating Disorders Association (NEDA)</a></li>
+<li><a href="http://www.hearingvoicesusa.org/">Hearing Voices Network (HVN) USA</a></li>
+</ul>
+<hr>
+<h3 id="-contribute">🚀 Contribute</h3>
+<p>If you have any recommendations, feel free to submit a pull request!</p>
+<hr>
+<h3 id="-license">📜 License</h3>
+<p>MIT License. Feel free to share and contribute!</p>
+  </div>
 </body>
 </html>

@@ -21,6 +21,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [SciShow Psych](https://www.youtube.com/c/scishowpsych)
 - [Dr. Todd Grande](https://www.youtube.com/c/ToddGrande)
 - [The School of Life](https://www.youtube.com/schooloflifechannel)
+- [How to ADHD](https://www.youtube.com/c/howtoadhd)
 
 ## 📄 Whitepapers & Research Papers
 - [APA PsycNet](https://psycnet.apa.org/)
@@ -29,6 +30,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [ResearchGate Psychology](https://www.researchgate.net/search/publication?q=psychology)
 - [PLOS ONE - Psychology Research](https://journals.plos.org/plosone/browse/psychology)
 - [PsyArXiv](https://psyarxiv.com/)
+- [SSHEL Psychology Resources Guide (University of Illinois)](https://www.library.illinois.edu/sshel/psychology/psycgui/)
 
 ## 🏛️ Non-Profit Organizations
 - [Mental Health America (MHA)](https://www.mhanational.org/)
@@ -36,8 +38,9 @@ A curated list of the best resources in psychology and mental health, covering b
 - [World Federation for Mental Health](https://wfmh.global/)
 - [Mind (UK)](https://www.mind.org.uk/)
 - [The Trevor Project](https://www.thetrevorproject.org/)
-- [SAMHSA (Substance Abuse and Mental Health Services Administration)](https://www.samhsa.gov/)
+- [SAMHSA (Substance Abuse and Mental Health Services Administration)](https://findtreatment.gov)
 - [WHO - Mental Health](https://www.who.int/health-topics/mental-health)
+- [National Child Traumatic Stress Network (NCTSN)](https://www.nctsn.org/)
 
 ## 📱 Apps for Mental Health
 - [Headspace](https://www.headspace.com/) – Meditation & mindfulness
@@ -46,6 +49,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Woebot](https://woebothealth.com/) – AI-based CBT support
 - [Happify](https://www.happify.com/) – Mental well-being activities
 - [Daylio](https://daylio.net/) – Mood tracking
+- [MindDoc](https://minddoc.com/)- Depression screening
 
 ## 🌐 Websites & Platforms
 - [Psychology Today](https://www.psychologytoday.com/)
@@ -55,6 +59,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [PsyWellPath](https://psywellpath.com/)
 - [Positive Psychology](https://positivepsychology.com/)
 - [Greater Good Magazine](https://greatergood.berkeley.edu/)
+- [Positive Psychology Toolkit by Berkeley Greater Good Science Center](https://positivepsychology.com/)
 
 ## 🎙️ Podcasts
 - [The Happiness Lab – Dr. Laurie Santos](https://www.happinesslab.fm/)

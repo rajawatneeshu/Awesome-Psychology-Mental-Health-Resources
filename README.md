@@ -4,7 +4,7 @@ A curated list of the best resources in psychology and mental health, covering b
 
 ---
 
-## 📚 Best Books
+## 📚 Books
 - [The Man Who Mistook His Wife for a Hat – Oliver Sacks](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)
 - [Thinking, Fast and Slow – Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [The Body Keeps the Score – Bessel van der Kolk](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score)
@@ -21,7 +21,8 @@ A curated list of the best resources in psychology and mental health, covering b
 - [The Mystery of Sleep](https://books.google.com/books/?id=bAQ0DgAAQBAJ)
 - [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ)
 - [Unplug: A simple guide to meditation for busy skeptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ)
-
+- [Mental Health In Tech: Guidelines For Employees](https://leanpub.com/osmi-guidelines-for-employees)
+  
 ## 🎥 YouTube Channels
 - [Psychology In Seattle](https://www.youtube.com/user/PsychologyInSeattle)
 - [Therapy in a Nutshell](https://www.youtube.com/c/TherapyinaNutshell)
@@ -55,6 +56,10 @@ A curated list of the best resources in psychology and mental health, covering b
 - [SAFE 4 Recovery](https://www.survivorsandfamiliesempowered.org/)
 - [Warfighter Advance](https://www.warfighteradvance.org/)
 - [MedShadow Foundation](https://medshadow.org/)
+- [Mental Health Hackers](https://mentalhealthhackers.org/)
+- [if-me.org](https://www.if-me.org/)
+- [Black Minds Matter](http://blackmindsmatter.co.uk/) - A non-profit organisation that aims to empower communities of Black people aged 13- 25, and wants to make more equal and just society for all.
+
 
 ## 📱 Apps for Mental Health
 - [Headspace](https://www.headspace.com/) – Meditation & mindfulness
@@ -71,9 +76,14 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
 - `Self Hosted` [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
 - `Self Hosted` [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
+-  [Moodpath](https://mymoodpath.com/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
+-  [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
+-  [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.
+-  [Wake Up Time](http://wakeupti.me/) - Calculates optimal times to wake up based on your body's sleep cycles.
+-  [we are ANXIO.us](http://weareanxio.us) - A collection of mental health and wellness apps, plus resources.
+-  [Wrabit](https://writewithwrabit.com) - Build a daily writing habit while contributing to mental health research.
 
-
-## 🌐 Websites & Platforms
+## 🌐 Websites / Organizations / Platforms
 - [Psychology Today](https://www.psychologytoday.com/)
 - [Verywell Mind](https://www.verywellmind.com/)
 - [PsychCentral](https://psychcentral.com/)
@@ -85,16 +95,25 @@ A curated list of the best resources in psychology and mental health, covering b
 - [kuakua.app](https://kuakua.app/)
 - [Positive Psychology](https://positivepsychology.com/)
 - [Grief Beyond Belief](http://griefbeyondbelief.org)
-- [if-me.org](https://www.if-me.org/)
 - [Seize the Awkward](https://seizetheawkward.org/)
 - [Students Against Depression](https://studentsagainstdepression.org/)
 - [The Mighty](https://themighty.com)
 - [Vrendle](https://vrendle.com)
 - [mentalhealth.day](https://mentalhealth.day)
+- [Black Therapists Rock](https://www.blacktherapistsrock.com/) - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.
+- [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.
+- [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) - Mental Health Peer Support & Advocacy for Women Of Color.
+- [Compassionate Coding](https://compassionatecoding.com) - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.
+- [Everybody Has A Brain](http://everybodyhasabrain.com/) - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.
+- [Hack Mental Health](https://www.hackmentalhealth.care) - The intersection of mental health and technology.
+- [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - GitHub-based project and website that encourages a diversity of views regarding mental health.
+- [MHPrompt](http://mhprompt.org) - Let's start a conversation about mental health in tech.
+- [OSMI](https://osmihelp.org) - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.
   
 ## Lists
 - [Awesome-Autism Resource List](https://github.com/aspergirl-git/awesome-autism) -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger's Syndrome.
 - [Selfcare.tech](http://selfcare.tech/) - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.
+- [Mental Health in Tech](https://dreamingechoes.github.io/awesome-mental-health) - List of resources for mental health focussed on people in the tech industry.
   
 ## 🎙️ Podcasts
 - [The Happiness Lab – Dr. Laurie Santos](https://www.happinesslab.fm/)

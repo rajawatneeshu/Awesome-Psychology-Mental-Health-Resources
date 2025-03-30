@@ -41,7 +41,7 @@
   <h1 id="-awesome-https-awesome-re-badge-svg-https-awesome-re-awesome-psychology-mental-health-resources"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> Awesome Psychology &amp; Mental Health Resources</h1>
 <p>A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.</p>
 <hr>
-<h2 id="-best-books">📚 Best Books</h2>
+<h2 id="-books">📚 Books</h2>
 <ul>
 <li><a href="https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales">The Man Who Mistook His Wife for a Hat – Oliver Sacks</a></li>
 <li><a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow – Daniel Kahneman</a></li>
@@ -59,6 +59,7 @@
 <li><a href="https://books.google.com/books/?id=bAQ0DgAAQBAJ">The Mystery of Sleep</a></li>
 <li><a href="https://books.google.com/books?id=99OcDQAAQBAJ">Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion</a></li>
 <li><a href="https://books.google.com/books?id=O1AODQAAQBAJ">Unplug: A simple guide to meditation for busy skeptics and modern soul seekers</a></li>
+<li><a href="https://leanpub.com/osmi-guidelines-for-employees">Mental Health In Tech: Guidelines For Employees</a></li>
 </ul>
 <h2 id="-youtube-channels">🎥 YouTube Channels</h2>
 <ul>
@@ -96,6 +97,9 @@
 <li><a href="https://www.survivorsandfamiliesempowered.org/">SAFE 4 Recovery</a></li>
 <li><a href="https://www.warfighteradvance.org/">Warfighter Advance</a></li>
 <li><a href="https://medshadow.org/">MedShadow Foundation</a></li>
+<li><a href="https://mentalhealthhackers.org/">Mental Health Hackers</a></li>
+<li><a href="https://www.if-me.org/">if-me.org</a></li>
+<li><a href="http://blackmindsmatter.co.uk/">Black Minds Matter</a> - A non-profit organisation that aims to empower communities of Black people aged 13- 25, and wants to make more equal and just society for all.</li>
 </ul>
 <h2 id="-apps-for-mental-health">📱 Apps for Mental Health</h2>
 <ul>
@@ -113,8 +117,14 @@
 <li><a href="https://www.tenpercent.com/">Ten Percent Happier</a> - Web &amp; Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.</li>
 <li><code>Self Hosted</code> <a href="https://github.com/DukkhaLess/DukkhaLessClient">DukkhaLessClient</a> - A self-care application for individuals seeking to improve their mental health.</li>
 <li><code>Self Hosted</code> <a href="https://github.com/DukkhaLess/DukkhaLessServer">DukkhaLessServer</a> - The backend server for the DukkhaLess service.</li>
+<li><a href="https://mymoodpath.com/en/">Moodpath</a> - Interactive, app-based screening, created to recognize symptoms of depression.</li>
+<li><a href="https://nyxo.app">Nyxo</a> – Open source sleep tracking and sleep coaching app for iOS and Android.</li>
+<li><a href="https://three-good-things.glitch.me/">Three Good Things</a> - Write down three good things in your life every morning.</li>
+<li><a href="http://wakeupti.me/">Wake Up Time</a> - Calculates optimal times to wake up based on your body&#39;s sleep cycles.</li>
+<li><a href="http://weareanxio.us">we are ANXIO.us</a> - A collection of mental health and wellness apps, plus resources.</li>
+<li><a href="https://writewithwrabit.com">Wrabit</a> - Build a daily writing habit while contributing to mental health research.</li>
 </ul>
-<h2 id="-websites-platforms">🌐 Websites &amp; Platforms</h2>
+<h2 id="-websites-organizations-platforms">🌐 Websites / Organizations / Platforms</h2>
 <ul>
 <li><a href="https://www.psychologytoday.com/">Psychology Today</a></li>
 <li><a href="https://www.verywellmind.com/">Verywell Mind</a></li>
@@ -127,17 +137,26 @@
 <li><a href="https://kuakua.app/">kuakua.app</a></li>
 <li><a href="https://positivepsychology.com/">Positive Psychology</a></li>
 <li><a href="http://griefbeyondbelief.org">Grief Beyond Belief</a></li>
-<li><a href="https://www.if-me.org/">if-me.org</a></li>
 <li><a href="https://seizetheawkward.org/">Seize the Awkward</a></li>
 <li><a href="https://studentsagainstdepression.org/">Students Against Depression</a></li>
 <li><a href="https://themighty.com">The Mighty</a></li>
 <li><a href="https://vrendle.com">Vrendle</a></li>
 <li><a href="https://mentalhealth.day">mentalhealth.day</a></li>
+<li><a href="https://www.blacktherapistsrock.com/">Black Therapists Rock</a> - Black Therapists Rock (BTR) is an organization committed to increasing awareness of social and psychological challenges impacting vulnerable communities.</li>
+<li><a href="https://www.baatn.org.uk/">The Black, African, and Asian Therapy Network</a> - The UK’s largest independent organisation to specialise in working psychologically, informed by an understanding of intersectionality, with people who identify as Black, African, South Asian and Caribbean.</li>
+<li><a href="https://twitter.com/BrownSistersSpk">Brown Sisters Speak</a> - Mental Health Peer Support &amp; Advocacy for Women Of Color.</li>
+<li><a href="https://compassionatecoding.com">Compassionate Coding</a> - Compassionate Coding combines the effective practices of agile software development with a focus on empathy and the latest in positive organizational psychology.</li>
+<li><a href="http://everybodyhasabrain.com/">Everybody Has A Brain</a> - Everybody Has A Brain is about creating opportunities for dialogue around personal mental health.</li>
+<li><a href="https://www.hackmentalhealth.care">Hack Mental Health</a> - The intersection of mental health and technology.</li>
+<li><a href="https://mentalhealth-kb.net/">Mental Health Knowledge Base</a> - GitHub-based project and website that encourages a diversity of views regarding mental health.</li>
+<li><a href="http://mhprompt.org">MHPrompt</a> - Let&#39;s start a conversation about mental health in tech.</li>
+<li><a href="https://osmihelp.org">OSMI</a> - Open Sourcing Mental Illness is a non-profit, corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.</li>
 </ul>
 <h2 id="lists">Lists</h2>
 <ul>
 <li><a href="https://github.com/aspergirl-git/awesome-autism">Awesome-Autism Resource List</a> -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger&#39;s Syndrome.</li>
 <li><a href="http://selfcare.tech/">Selfcare.tech</a> - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.</li>
+<li><a href="https://dreamingechoes.github.io/awesome-mental-health">Mental Health in Tech</a> - List of resources for mental health focussed on people in the tech industry.</li>
 </ul>
 <h2 id="-podcasts">🎙️ Podcasts</h2>
 <ul>
@@ -177,6 +196,7 @@
 <hr>
 <h3 id="-license">📜 License</h3>
 <p>MIT License. Feel free to share and contribute!</p>
+
 
   </div>
 </body>

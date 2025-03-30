@@ -38,7 +38,7 @@
 </head>
 <body>
     <div class="container">
-   <h1 id="-awesome-https-awesome-re-badge-svg-https-awesome-re-awesome-psychology-mental-health-resources"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> Awesome Psychology &amp; Mental Health Resources</h1>
+  <h1 id="-awesome-https-awesome-re-badge-svg-https-awesome-re-awesome-psychology-mental-health-resources"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> Awesome Psychology &amp; Mental Health Resources</h1>
 <p>A curated list of the best resources in psychology and mental health, covering books, research papers, websites, apps, platforms, and more.</p>
 <hr>
 <h2 id="-best-books">📚 Best Books</h2>
@@ -60,7 +60,7 @@
 <li><a href="https://books.google.com/books?id=99OcDQAAQBAJ">Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion</a></li>
 <li><a href="https://books.google.com/books?id=O1AODQAAQBAJ">Unplug: A simple guide to meditation for busy skeptics and modern soul seekers</a></li>
 </ul>
-<h2 id="-best-youtube-channels">🎥 Best YouTube Channels</h2>
+<h2 id="-youtube-channels">🎥 YouTube Channels</h2>
 <ul>
 <li><a href="https://www.youtube.com/user/PsychologyInSeattle">Psychology In Seattle</a></li>
 <li><a href="https://www.youtube.com/c/TherapyinaNutshell">Therapy in a Nutshell</a></li>
@@ -92,11 +92,13 @@
 <li><a href="https://istss.org/">International Society for Traumatic Stress Studies</a></li>
 <li><a href="https://www.madinamerica.com/">Mad in America</a></li>
 <li><a href="https://openexcellence.org/">Open Excellence</a></li>
-<li><a href="https://psychrights.org/">PsychRights</a>\</li>
+<li><a href="https://psychrights.org/">PsychRights</a></li>
 <li><a href="https://www.survivorsandfamiliesempowered.org/">SAFE 4 Recovery</a></li>
 <li><a href="https://www.warfighteradvance.org/">Warfighter Advance</a></li>
-<li><h2 id="-apps-for-mental-health">📱 Apps for Mental Health</h2>
-</li>
+<li><a href="https://medshadow.org/">MedShadow Foundation</a></li>
+</ul>
+<h2 id="-apps-for-mental-health">📱 Apps for Mental Health</h2>
+<ul>
 <li><a href="https://www.headspace.com/">Headspace</a> – Meditation &amp; mindfulness</li>
 <li><a href="https://www.calm.com/">Calm</a> – Sleep &amp; relaxation</li>
 <li><a href="https://www.betterhelp.com/">BetterHelp</a> – Online therapy</li>
@@ -104,6 +106,13 @@
 <li><a href="https://www.happify.com/">Happify</a> – Mental well-being activities</li>
 <li><a href="https://daylio.net/">Daylio</a> – Mood tracking</li>
 <li><a href="https://minddoc.com/">MindDoc</a>- Depression screening</li>
+<li><a href="https://ggapps.net/2018/04/11/ggoc-ocd-training-app/">GG OCD</a> - Improves OCD through short games.</li>
+<li><a href="https://mequilibrium.com">meQuilibrium</a> - Improve behavioral psychology to build resilience and agility.</li>
+<li><a href="http://www.choosemuse.com/">Muse brain sensing headband</a> - Headband and companion app for mindfulness meditation.</li>
+<li><a href="https://www.sleepio.com/">Sleepio</a> - Improve your sleep habits and quality.</li>
+<li><a href="https://www.tenpercent.com/">Ten Percent Happier</a> - Web &amp; Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.</li>
+<li><code>Self Hosted</code> <a href="https://github.com/DukkhaLess/DukkhaLessClient">DukkhaLessClient</a> - A self-care application for individuals seeking to improve their mental health.</li>
+<li><code>Self Hosted</code> <a href="https://github.com/DukkhaLess/DukkhaLessServer">DukkhaLessServer</a> - The backend server for the DukkhaLess service.</li>
 </ul>
 <h2 id="-websites-platforms">🌐 Websites &amp; Platforms</h2>
 <ul>
@@ -114,11 +123,21 @@
 <li><a href="https://psywellpath.com/">PsyWellPath</a></li>
 <li><a href="https://positivepsychology.com/">Positive Psychology</a></li>
 <li><a href="https://greatergood.berkeley.edu/">Greater Good Magazine</a></li>
+<li><a href="https://www.openmindsquarterly.com/">OpenMinds Quarterly</a></li>
+<li><a href="https://kuakua.app/">kuakua.app</a></li>
 <li><a href="https://positivepsychology.com/">Positive Psychology</a></li>
 <li><a href="http://griefbeyondbelief.org">Grief Beyond Belief</a></li>
+<li><a href="https://www.if-me.org/">if-me.org</a></li>
 <li><a href="https://seizetheawkward.org/">Seize the Awkward</a></li>
 <li><a href="https://studentsagainstdepression.org/">Students Against Depression</a></li>
 <li><a href="https://themighty.com">The Mighty</a></li>
+<li><a href="https://vrendle.com">Vrendle</a></li>
+<li><a href="https://mentalhealth.day">mentalhealth.day</a></li>
+</ul>
+<h2 id="lists">Lists</h2>
+<ul>
+<li><a href="https://github.com/aspergirl-git/awesome-autism">Awesome-Autism Resource List</a> -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger&#39;s Syndrome.</li>
+<li><a href="http://selfcare.tech/">Selfcare.tech</a> - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.</li>
 </ul>
 <h2 id="-podcasts">🎙️ Podcasts</h2>
 <ul>
@@ -158,6 +177,7 @@
 <hr>
 <h3 id="-license">📜 License</h3>
 <p>MIT License. Feel free to share and contribute!</p>
+
   </div>
 </body>
 </html>

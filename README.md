@@ -114,6 +114,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Awesome-Autism Resource List](https://github.com/aspergirl-git/awesome-autism) -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger's Syndrome.
 - [Selfcare.tech](http://selfcare.tech/) - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.
 - [Mental Health in Tech](https://dreamingechoes.github.io/awesome-mental-health) - List of resources for mental health focussed on people in the tech industry.
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - 40 curated psychology laws and cognitive biases with interactive quiz. Evidence-based resource (8,000+ users) for understanding how psychology affects everyday decisions.
   
 ## 🎙️ Podcasts
 - [The Happiness Lab – Dr. Laurie Santos](https://www.happinesslab.fm/)

@@ -87,6 +87,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Psychology Today](https://www.psychologytoday.com/)
 - [Verywell Mind](https://www.verywellmind.com/)
 - [PsychCentral](https://psychcentral.com/)
+- [Masked But Aware](https://www.maskedbutaware.nl/en/tools) - Browser-based self-reflection and support tools for autistic and neurodivergent adults, with clear non-diagnostic disclaimers.
 - [MindTools](https://www.mindtools.com/)
 - [PsyWellPath](https://psywellpath.com/)
 - [Positive Psychology](https://positivepsychology.com/)

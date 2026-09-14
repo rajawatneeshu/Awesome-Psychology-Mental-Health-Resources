@@ -64,6 +64,7 @@ A curated list of the best resources in psychology and mental health, covering b
 ## 📱 Apps for Mental Health
 - [Headspace](https://www.headspace.com/) – Meditation & mindfulness
 - [Calm](https://www.calm.com/) – Sleep & relaxation
+- [CareClinic](https://careclinic.io/mood-tracker/) – Mood, symptom, medication, and sleep journaling
 - [BetterHelp](https://www.betterhelp.com/) – Online therapy
 - [Woebot](https://woebothealth.com/) – AI-based CBT support
 - [Happify](https://www.happify.com/) – Mental well-being activities

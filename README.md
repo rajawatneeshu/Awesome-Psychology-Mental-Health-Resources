@@ -77,6 +77,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - `Self Hosted` [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
 - `Self Hosted` [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
 -  [Moodpath](https://mymoodpath.com/en/) - Interactive, app-based screening, created to recognize symptoms of depression.
+-  [NerveWindow](https://nervewindow.com/) - Self-guided web and Android app: three short questions, then one 7-minute regulation routine (breathing, grounding, movement or a thinking reset) matched to your state. Based on the Window of Tolerance model; not therapy.
 -  [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
 -  [One-Minute Akari](https://ai-akari.ai/one-minute/en) - Free, no-signup 60-second web tool that lets someone choose a difficult state and immediately receive one small concrete action, without personal writing or a sales pitch.
 -  [Three Good Things](https://three-good-things.glitch.me/) - Write down three good things in your life every morning.

@@ -22,6 +22,7 @@ A curated list of the best resources in psychology and mental health, covering b
 - [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ)
 - [Unplug: A simple guide to meditation for busy skeptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ)
 - [Mental Health In Tech: Guidelines For Employees](https://leanpub.com/osmi-guidelines-for-employees)
+- [Turbo-Suslik System 2.1: Engineer's Edition – Dmitry Leushkin](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.1-Engineer-s-Edition)
   
 ## 🎥 YouTube Channels
 - [Psychology In Seattle](https://www.youtube.com/user/PsychologyInSeattle)
